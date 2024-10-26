@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000;
+    color: white;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+}
+
+.cake {
+    width: center;
+    height: auto;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.birthday-text {
+    display: flex;
+    justify-content: right;
+    font-size: 50px;
+    color: #f9c1ff
+
